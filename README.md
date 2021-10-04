@@ -22,9 +22,9 @@ both need biling ,or finace transtions are same
              -2D and 3D Application(x-box)
              -IOT Application(smart watches,collecting data,to temperature,rainfall...wind speed,smart blubs)
              
-Order :
-       frontend
-       backend
-       Deploying and testing. Testing in live
-        MEAN  mongodb,express,angular,node.js
-        MERN  mongodb,express,react,node.js
+Order :  
+       frontend  
+       backend  
+       Deploying and testing. Testing in live  
+        MEAN  mongodb,express,angular,node.js  
+        MERN  mongodb,express,react,node.js   
